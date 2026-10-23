@@ -82,4 +82,4 @@ jupyter notebook wine_price_prediction.ipynb
 
 ---
 
-Abibatou WANDAOGO — [Portfolio](https://abibatouwandaogo.github.io/portfolio/projets/data-scientist/prix-vin-bordeaux)
+Abibatou WANDAOGO — [Portfolio](https://abibatouwandaogo.github.io/portfolio/projets/statistiques/prix-vin-bordeaux)
